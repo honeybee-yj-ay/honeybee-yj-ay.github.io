@@ -25,12 +25,12 @@ title : honeybee-yj-ay
 tagline: A responsive templeate built for jekyll3
 author :
   name : honeybee-yj-ay
-  email : lantoniotrento@gmail.com
-  github : antoniotrento
-  twitter : lantoniotrento
+  email : crazyyfish@gmail.com
+  github : honeybee-yj-ay
+  twitter : YoungjungUh
   feedburner : honeybee-yj-ay
 
-twitter_username: lantoniotrento
+twitter_username: YoungjungUh
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
