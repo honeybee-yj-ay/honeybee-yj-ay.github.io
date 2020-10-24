@@ -7,23 +7,24 @@
         background-size: auto 100%;
         text-align: left;
         padding: 6% 50% 0 0 ;
+        font-size: small;
     }
 
     #section1{
-        background-image: url(/assets/images/honeybee/leanonme_low.jpg);
+        background-image: url(/assets/images/honeybee/leanonme_low_landscape.jpg);
         background-position: center right;
         text-align: left;
         padding: 6% 50% 0 0 ;
     }
 
     #section2{
-        background-image: url(/assets/images/honeybee/bee_low.jpg);
+        background-image: url(/assets/images/honeybee/bee_low_landscape.jpg);
         background-position: center right;
         text-align: left;
         padding: 6% 50% 0 0 ;
     }
     #section3{
-        background-image: url(/assets/images/honeybee/honey_low.jpg);
+        background-image: url(/assets/images/honeybee/honey_low_landscape.jpg);
         background-position: center right;
         text-align: left;
         padding: 6% 50% 0 0 ;
