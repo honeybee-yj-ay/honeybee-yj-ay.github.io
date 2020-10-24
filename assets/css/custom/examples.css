@@ -1,13 +1,16 @@
 @CHARSET "ISO-8859-1";
 
-@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Gentium+Book+Basic');
+/*@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Gentium+Book+Basic');
+
+ */
+@import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
 /* Reset CSS
  * --------------------------------------- */
 
 /* Custom CSS
  * --------------------------------------- */
 body{
-	font-family: 'NanumBARUNGOTHIC';
+	font-family: 'Nanum Gothic';
 	color: #fff;
 	color: rgba(0,0,0,0.5);
 }
