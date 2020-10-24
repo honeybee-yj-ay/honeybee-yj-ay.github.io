@@ -10,7 +10,7 @@
 /* Custom CSS
  * --------------------------------------- */
 body{
-	font-family: 'Nanum Gothic';
+    font-family: 'Nanum Gothic', sans-serif;
 	color: #fff;
 	color: rgba(0,0,0,0.5);
 }
