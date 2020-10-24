@@ -7,7 +7,6 @@
         background-size: auto 100%;
         text-align: left;
         padding: 6% 50% 0 0 ;
-        font-size: small;
     }
 
     #section1{
@@ -34,13 +33,13 @@
         padding: 6% 0 0 0;
     }
     #section5{
-        background-image: url(/assets/images/honeybee/dying_low.jpg);
+        background-image: url(/assets/images/honeybee/dying_low_landscape.jpg);
         background-position: center right;
         text-align: left;
         padding: 6% 50% 0 0 ;
     }
     #section6{
-        background-image: url(/assets/images/honeybee/dying2_low.jpg);
+        background-image: url(/assets/images/honeybee/dying2_low_landscape.jpg);
         background-position: center right;
         text-align: left;
         padding: 6% 50% 0 0 ;
