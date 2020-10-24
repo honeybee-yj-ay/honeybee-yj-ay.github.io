@@ -46,6 +46,7 @@
     * --------------------------------------- */
     #section0{
         background-image: url(/assets/images/honeybee/main_portrait.jpg);
+        background-position: center center;
         padding: 75% 0 0 0;
     }
 
