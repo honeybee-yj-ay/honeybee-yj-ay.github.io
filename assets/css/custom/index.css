@@ -22,11 +22,11 @@
         padding: 75% 0 0 0;
     }
     #section4{
-        background-image: url(/assets/images/honeybee/lips.jpg);
+        background-color: #3a3a3a;
         padding: 6% 0 0 0;
     }
     #section5{
-        background-color: #3a3a3a;
+        background-image: url(/assets/images/honeybee/lips.jpg);
         padding: 6% 0 0 0;
     }
     #section6{
@@ -69,13 +69,13 @@
         padding: 75% 0 0 0;
     }
     #section4{
-        background-image: url(/assets/images/honeybee/holdhands.jpg);
         background-position: center center;
+        background-color: dimgray;
         padding: 6% 0 0 0;
     }
     #section5{
+        background-image: url(/assets/images/honeybee/holdhands.jpg);
         background-position: center center;
-        background-color: dimgray;
         padding: 6% 0 0 0;
     }
     #section6{
