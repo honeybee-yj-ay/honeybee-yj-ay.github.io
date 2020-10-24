@@ -44,7 +44,7 @@
     /* Defining each section background and styles on portrait orientation
     * --------------------------------------- */
     #section0{
-        background-image: url(/assets/images/honeybee/main.jpg);
+        background-image: url(/assets/images/honeybee/main_portrait.jpg);
         padding: 6% 0 0 0;
     }
 
