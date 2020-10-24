@@ -99,7 +99,7 @@ body {
 **********************************/
 @media only screen and (max-width: 1024px) {
     .wrap {
-        width: 760px;
+        width: 1024px;
     }
 }
 
