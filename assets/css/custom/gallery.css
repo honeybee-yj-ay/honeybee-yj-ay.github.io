@@ -4,41 +4,43 @@
     #section0{
         background-image: url(/assets/images/honeybee/sesame.jpg);
         background-position: center center;
-        padding: 50% 0 0 0;
+        padding: 75% 0 0 0;
     }
 
     #section1{
-        background-image: url(/assets/images/honeybee/leanonme.jpg);
+        background-image: url(/assets/images/honeybee/onlyyou.jpg);
+        background-position: center center;
         padding: 75% 0 0 0;
     }
 
     #section2{
-        background-image: url(/assets/images/honeybee/bee.jpg);
+        background-image: url(/assets/images/honeybee/bubble_concat.jpg);
+        background-position: center center;
         padding: 75% 0 0 0;
     }
     #section3{
-        background-image: url(/assets/images/honeybee/honey.jpg);
+        background-image: url(/assets/images/honeybee/silhouette_concat.jpg);
+        background-position: center center;
         padding: 75% 0 0 0;
     }
     #section4{
-        background-color: #3a3a3a;
-        padding: 6% 0 0 0;
+        background-image: url(/assets/images/honeybee/holdhands.jpg);
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 70% 0 0 0;
     }
     #section5{
-        background-image: url(/assets/images/honeybee/dying_low.jpg);
-        padding: 6% 0 0 0;
+        background-image: url(/assets/images/honeybee/propose.jpg);
+        background-position: center center;
+        background-size: cover;
+        padding: 80% 0 0 0;
     }
     #section6{
-        background-image: url(/assets/images/honeybee/dying2_low.jpg);
-        padding: 6% 0 0 0;
-    }
-
-    /* Set the size of the div element that contains the map */
-    #map {
-        height: 400px;
-        /* The height is 400 pixels */
-        width: 100%;
-        /* The width is the width of the web page */
+        background-image: url(/assets/images/honeybee/wall.jpg);
+        background-position: center center;
+        background-size: cover;
+        padding: 80% 0 0 0;
     }
 }
 
@@ -58,7 +60,7 @@
     }
 
     #section2{
-        background-image: url(/assets/images/honeybee/bubble_concat.jpg.jpg);
+        background-image: url(/assets/images/honeybee/bubble_concat.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
