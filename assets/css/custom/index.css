@@ -1,6 +1,6 @@
 @media only screen and (orientation: landscape) {
 
-  /* Defining each sectino background and styles
+  /* Defining each section background and styles
   * --------------------------------------- */
   #section0{
     background-image: url(/assets/images/honeybee/main.jpg);
@@ -35,30 +35,27 @@
 
       /* Defining each section background and styles on portrait orientation
       * --------------------------------------- */
-      #section0{
-        background-image: url(/assets/img/tablet/universe1.jpg);
-        padding: 6% 0 0 0;
-      }
+	  #section0{
+	    background-image: url(/assets/images/honeybee/main.jpg);
+	    padding: 6% 0 0 0;
+	  }
 
-      #section1{
-        background-image: url(/assets/img/tablet/universe2.jpg);
-        padding: 6% 0 0 0;
-      }
+	  #section1{
+	    background-image: url(/assets/images/honeybee/leanonme.jpg);
+	    padding: 6% 0 0 0;
+	  }
 
-      #section2{
-        background-image: url(/assets/img/tablet/universe3.jpg);
-        padding: 6% 0 0 0;
-      }
-      #section3{
-        background-image: url(/assets/img/tablet/universe4.jpg);
-        padding: 6% 0 0 0;
-      }
-      #section4{
-        background-image: url(/assets/img/tablet/universe5.jpg);
-        padding: 6% 0 0 0;
-      }
-
-
-
+	  #section2{
+	    background-image: url(/assets/images/honeybee/bee.jpg);
+	    padding: 6% 0 0 0;
+	  }
+	  #section3{
+	    background-image: url(/assets/images/honeybee/honey.jpg);
+	    padding: 6% 0 0 0;
+	  }
+	  #section4{
+	    background-image: url(/assets/images/honeybee/lips.jpg);
+	    padding: 6% 0 0 0;
+	  }
 
 }
