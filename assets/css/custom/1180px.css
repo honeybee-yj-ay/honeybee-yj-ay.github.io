@@ -30,7 +30,6 @@ body {
 
 /* Sets default values on all columns */
 [class*="span"] {
-    margin-right: 2%;
     float: left;
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
