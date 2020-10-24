@@ -3,25 +3,25 @@
   /* Defining each sectino background and styles
   * --------------------------------------- */
   #section0{
-    background-image: url(/assets/img/big/universe1.jpg);
+    background-image: url(/assets/images/honeybee/main.jpg);
     padding: 6% 0 0 0;
   }
 
   #section1{
-    background-image: url(/assets/img/big/universe2.jpg);
+    background-image: url(/assets/images/honeybee/holdhands.jpg);
     padding: 6% 0 0 0;
   }
 
   #section2{
-    background-image: url(/assets/img/big/universe3.jpg);
+    background-image: url(/assets/images/honeybee/leanonme.jpg);
     padding: 6% 0 0 0;
   }
   #section3{
-    background-image: url(/assets/img/big/universe4.jpg);
+    background-image: url(/assets/images/honeybee/honey.jpg);
     padding: 6% 0 0 0;
   }
   #section4{
-    background-image: url(/assets/img/big/universe5.jpg);
+    background-image: url(/assets/images/honeybee/lips.jpg);
     padding: 6% 0 0 0;
   }
 
