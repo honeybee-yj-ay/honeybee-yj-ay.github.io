@@ -52,35 +52,30 @@
     }
 
     #section1{
-        background-image: url(/assets/images/honeybee/leanonme_low.jpg);
+        background-image: url(/assets/images/honeybee/onlyyou.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
 
     #section2{
-        background-image: url(/assets/images/honeybee/bee_low.jpg);
+        background-image: url(/assets/images/honeybee/bubble_concat.jpg.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
     #section3{
-        background-image: url(/assets/images/honeybee/honey_low.jpg);
+        background-image: url(/assets/images/honeybee/silhouette_concat.jpg.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
     #section4{
-        background-position: center center;
-        background-color: cornsilk;
-        padding: 6% 0 0 0;
-    }
-    #section5{
-        background-image: url(/assets/images/honeybee/dying_low.jpg);
+        background-image: url(/assets/images/honeybee/holdhands.jpg);
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
         padding: 70% 0 0 0;
     }
-    #section6{
-        background-image: url(/assets/images/honeybee/dying2_low.jpg);
+    #section5{
+        background-image: url(/assets/images/honeybee/propose.jpg);
         background-position: center center;
         background-size: cover;
         padding: 80% 0 0 0;
