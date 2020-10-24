@@ -464,7 +464,6 @@ position: relative;
 }
 
 .highlight-container {
-display: inline-block;
 }
 .highlight-container:before, .highlight-container:after {
 content: " ";
