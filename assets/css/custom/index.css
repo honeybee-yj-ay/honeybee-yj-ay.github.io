@@ -82,6 +82,7 @@
     #section6{
         background-image: url(/assets/images/honeybee/finale.jpg);
         background-position: center center;
+        background-size: cover;
         padding: 70% 0 0 0;
     }
 }
