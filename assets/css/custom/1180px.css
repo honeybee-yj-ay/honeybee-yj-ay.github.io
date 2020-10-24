@@ -85,23 +85,22 @@ body {
     float: none;
 }
 
+
 /**********************************
 * Smaller Screens
 **********************************/
-/*
 @media only screen and (max-width: 1200px) {
     .wrap {
-        width: 100%;
+        width: 960px;
     }
 }
 
 /**********************************
 * Tablets
 **********************************/
-/*
 @media only screen and (max-width: 1024px) {
     .wrap {
-        width: 100%;
+        width: 760px;
     }
 }
 
@@ -109,10 +108,9 @@ body {
 * Mobile Devices
 * - All columns are full width
 **********************************/
-/*
 @media only screen and (max-width: 767px) {
     .wrap {
-        width: 100%;
+        width: 96%;
     }
     .row {
         margin: 0;
@@ -123,4 +121,3 @@ body {
         width: 100%;
     }
 }
- */
