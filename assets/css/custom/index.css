@@ -111,6 +111,8 @@
     #section5{
         background-image: url(/assets/images/honeybee/dying_lowres.jpg);
         background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
         padding: 70% 0 0 0;
     }
     #section6{
