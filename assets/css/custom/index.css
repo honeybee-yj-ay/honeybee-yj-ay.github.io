@@ -89,6 +89,7 @@
     #section1{
         background-image: url(/assets/images/honeybee/leanonme_lowres.jpg);
         background-position: center center;
+        font-size: 2vh;
         padding: 75% 0 0 0;
     }
 
