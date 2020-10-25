@@ -161,9 +161,9 @@
     }*/
     .intro-scroll-down {
         position: absolute;
-        margin-top: 2em;
         z-index: 1;
-        left: 50%;
+        bottom: 5%;
+        right: 10%;
         margin-left: -15px;
     }
 
