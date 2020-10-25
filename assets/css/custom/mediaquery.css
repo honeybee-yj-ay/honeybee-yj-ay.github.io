@@ -358,7 +358,7 @@
     .intro-scroll-down {
         position: absolute;
         z-index: 1;
-        bottom: 10%
+        bottom: 5%;
         left: 90%;
         margin-left: -15px;
     }
@@ -512,7 +512,7 @@
       .intro-scroll-down {
           position: absolute;
           z-index: 1;
-          bottom: 10%;
+          bottom: 5%;
           left: 90%;
           margin-left: -15px;
       }
