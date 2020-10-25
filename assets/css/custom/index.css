@@ -2,7 +2,7 @@
     /* Defining each section background and styles
     * --------------------------------------- */
     #section0{
-        background-image: url(/assets/images/honeybee/main_landscape.jpg);
+        background-image: url(/assets/images/honeybee/main_lowres_landscape.jpg);
         background-position: center right;
         background-size: auto 100%;
         text-align: left;
@@ -11,7 +11,7 @@
     }
 
     #section1{
-        background-image: url(/assets/images/honeybee/leanonme_low_landscape.jpg);
+        background-image: url(/assets/images/honeybee/leanonme_lowres_landscape.jpg);
         background-position: center right;
         background-size: auto 100%;
         text-align: left;
@@ -20,7 +20,7 @@
     }
 
     #section2{
-        background-image: url(/assets/images/honeybee/bee_low_landscape.jpg);
+        background-image: url(/assets/images/honeybee/bee_lowres_landscape.jpg);
         background-position: center right;
         background-size: auto 100%;
         text-align: left;
@@ -28,7 +28,7 @@
         padding: 6% 50% 0 0 ;
     }
     #section3{
-        background-image: url(/assets/images/honeybee/honey_low_landscape.jpg);
+        background-image: url(/assets/images/honeybee/honey_lowres_landscape.jpg);
         background-position: center right;
         background-size: auto 100%;
         text-align: left;
@@ -41,7 +41,7 @@
         padding: 6% 0 0 0;
     }
     #section5{
-        background-image: url(/assets/images/honeybee/dying_low_landscape.jpg);
+        background-image: url(/assets/images/honeybee/dying_lowres_landscape.jpg);
         background-position: center right;
         background-size: auto 100%;
         background-repeat: no-repeat;
@@ -50,7 +50,7 @@
         padding: 6% 50% 0 0 ;
     }
     #section6{
-        background-image: url(/assets/images/honeybee/dying2_low_landscape.jpg);
+        background-image: url(/assets/images/honeybee/dying2_lowres_landscape.jpg);
         background-position: center right;
         background-size: auto 100%;
         background-repeat: no-repeat;
@@ -81,24 +81,24 @@
     /* Defining each section background and styles on portrait orientation
     * --------------------------------------- */
     #section0{
-        background-image: url(/assets/images/honeybee/main_portrait.jpg);
+        background-image: url(/assets/images/honeybee/main_lowres_portrait.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
 
     #section1{
-        background-image: url(/assets/images/honeybee/leanonme_low.jpg);
+        background-image: url(/assets/images/honeybee/leanonme_lowres.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
 
     #section2{
-        background-image: url(/assets/images/honeybee/bee_low.jpg);
+        background-image: url(/assets/images/honeybee/bee_lowres.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
     #section3{
-        background-image: url(/assets/images/honeybee/honey_low.jpg);
+        background-image: url(/assets/images/honeybee/honey_lowres.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
@@ -108,14 +108,14 @@
         padding: 6% 0 0 0;
     }
     #section5{
-        background-image: url(/assets/images/honeybee/dying_low.jpg);
+        background-image: url(/assets/images/honeybee/dying_lowres.jpg);
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
         padding: 70% 0 0 0;
     }
     #section6{
-        background-image: url(/assets/images/honeybee/dying2_low.jpg);
+        background-image: url(/assets/images/honeybee/dying2_lowres.jpg);
         background-position: center center;
         background-size: cover;
         padding: 80% 0 0 0;
