@@ -44,6 +44,7 @@
         background-image: url(/assets/images/honeybee/dying_low_landscape.jpg);
         background-position: center right;
         background-size: auto 100%;
+        background-repeat: no-repeat;
         text-align: left;
         font-size: 2vh;
         padding: 6% 50% 0 0 ;
@@ -52,6 +53,7 @@
         background-image: url(/assets/images/honeybee/dying2_low_landscape.jpg);
         background-position: center right;
         background-size: auto 100%;
+        background-repeat: no-repeat;
         text-align: left;
         font-size: 2vh;
         padding: 6% 50% 0 0 ;
@@ -60,6 +62,7 @@
         background-image: url(/assets/images/honeybee/thumbnail.jpg);
         background-position: center right;
         background-size: auto 100%;
+        background-repeat: no-repeat;
         text-align: left;
         font-size: 2vh;
         padding: 6% 50% 0 0 ;
