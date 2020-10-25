@@ -13,6 +13,7 @@
     #section1{
         background-image: url(/assets/images/honeybee/leanonme_low_landscape.jpg);
         background-position: center right;
+        background-size: auto 100%;
         text-align: left;
         font-size: 1.7vh;
         padding: 6% 50% 0 0 ;
@@ -21,6 +22,7 @@
     #section2{
         background-image: url(/assets/images/honeybee/bee_low_landscape.jpg);
         background-position: center right;
+        background-size: auto 100%;
         text-align: left;
         font-size: 2vh;
         padding: 6% 50% 0 0 ;
@@ -28,6 +30,7 @@
     #section3{
         background-image: url(/assets/images/honeybee/honey_low_landscape.jpg);
         background-position: center right;
+        background-size: auto 100%;
         text-align: left;
         font-size: 2vh;
         padding: 6% 50% 0 0 ;
@@ -40,6 +43,7 @@
     #section5{
         background-image: url(/assets/images/honeybee/dying_low_landscape.jpg);
         background-position: center right;
+        background-size: auto 100%;
         text-align: left;
         font-size: 2vh;
         padding: 6% 50% 0 0 ;
@@ -47,6 +51,7 @@
     #section6{
         background-image: url(/assets/images/honeybee/dying2_low_landscape.jpg);
         background-position: center right;
+        background-size: auto 100%;
         text-align: left;
         font-size: 2vh;
         padding: 6% 50% 0 0 ;
@@ -54,6 +59,7 @@
     #section7{
         background-image: url(/assets/images/honeybee/thumbnail.jpg);
         background-position: center right;
+        background-size: auto 100%;
         text-align: left;
         font-size: 2vh;
         padding: 6% 50% 0 0 ;
