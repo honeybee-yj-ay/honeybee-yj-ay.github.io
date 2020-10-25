@@ -357,9 +357,9 @@
     }*/
     .intro-scroll-down {
         position: absolute;
-        margin-top: 2em;
         z-index: 1;
-        left: 50%;
+        bottom: 10%
+        left: 90%;
         margin-left: -15px;
     }
 
