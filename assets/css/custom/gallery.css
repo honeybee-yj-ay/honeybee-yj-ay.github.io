@@ -1,42 +1,42 @@
 @media only screen and (orientation: landscape) {
     /* Defining each section background and styles
     * --------------------------------------- */
-    #section0{
+    #section3{
         background-image: url(/assets/images/honeybee/sesame_wb_lowres.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
 
-    #section1{
+    #section0{
         background-image: url(/assets/images/honeybee/onlyyou_lowres.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
 
-    #section2{
+    #section1{
         background-image: url(/assets/images/honeybee/bubble_concat_lowres.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
-    #section3{
+    #section5{
         background-image: url(/assets/images/honeybee/silhouette_concat_lowres.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
-    #section4{
+    #section6{
         background-image: url(/assets/images/honeybee/holdhands_lowres.jpg);
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
         padding: 70% 0 0 0;
     }
-    #section5{
+    #section4{
         background-image: url(/assets/images/honeybee/wall_wb_lowres.jpg);
         background-position: center center;
         background-size: cover;
         padding: 80% 0 0 0;
     }
-    #section6{
+    #section2{
         background-image: url(/assets/images/honeybee/propose_lowres.jpg);
         background-position: center center;
         background-size: cover;
@@ -47,42 +47,42 @@
 @media only screen and (orientation: portrait) {
     /* Defining each section background and styles on portrait orientation
     * --------------------------------------- */
-    #section0{
+    #section3{
         background-image: url(/assets/images/honeybee/sesame_wb_lowres.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
 
-    #section1{
+    #section0{
         background-image: url(/assets/images/honeybee/onlyyou_lowres.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
 
-    #section2{
+    #section1{
         background-image: url(/assets/images/honeybee/bubble_concat_lowres.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
-    #section3{
+    #section5{
         background-image: url(/assets/images/honeybee/silhouette_concat_lowres.jpg);
         background-position: center center;
         padding: 75% 0 0 0;
     }
-    #section4{
+    #section6{
         background-image: url(/assets/images/honeybee/holdhands_lowres.jpg);
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
         padding: 70% 0 0 0;
     }
-    #section5{
+    #section4{
         background-image: url(/assets/images/honeybee/wall_wb_lowres.jpg);
         background-position: center center;
         background-size: cover;
         padding: 80% 0 0 0;
     }
-    #section6{
+    #section2{
         background-image: url(/assets/images/honeybee/propose_lowres.jpg);
         background-position: center center;
         background-size: cover;
