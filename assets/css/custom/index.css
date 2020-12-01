@@ -120,4 +120,8 @@
         background-size: cover;
         padding: 80% 0 0 0;
     }
+    .youtube{
+        position: absolute;
+        top: 0;
+    }
 }
